@@ -1,0 +1,13 @@
+.wrapp{
+    width: 100%;
+    height: 70vh;
+} 
+.casesContainer{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 451.65px;
+    align-items: center;
+    justify-content: space-around;
+}
