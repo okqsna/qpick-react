@@ -1,0 +1,10 @@
+.wrapp{
+    width: 100%;
+    height: 70vh;
+}
+.headphonesSecondContainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}

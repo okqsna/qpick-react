@@ -1,0 +1,59 @@
+.headphonesSecondBox{
+    height: 90vh;
+    margin-top: 240px;
+    display: flex;
+    flex-direction: column;
+}
+.headphonesSecondCard{
+    margin-top: 20px;
+    width: 300px;
+    height: 370px;
+    padding: 12px 22px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 30px;
+    cursor: pointer;
+}
+.picCardSecond img{
+    width: 210.61px;
+    height: 220px;
+    margin-left: 20px;
+}
+.cardSecondInfo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.cardSecondInfo h2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 21px;
+    color: #1C1C27;
+}
+.cardSecondInfo h4{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 21px; 
+    color: #FFA542;
+}
+.rateSecondInfo{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.rateSecondInfo h4{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 21px;
+    margin: 5px 0px 0px 20px;
+    color: #838383;
+}
